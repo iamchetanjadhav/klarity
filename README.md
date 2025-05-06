@@ -29,8 +29,6 @@ git clone https://github.com/yourusername/klarity.git
 
 cd klarity
 
-# For the frontend
-cd klarity
 npm install
 
 npm run dev
