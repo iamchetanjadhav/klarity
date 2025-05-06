@@ -4,12 +4,12 @@ Klarity is a modern, AI-powered web application built with a fast and scalable t
 
 ## 🚀 Tech Stack
 
-- ⚡ **Vite** – Lightning-fast frontend tooling
-- 💻 **TypeScript** – Type-safe JavaScript
-- ⚛️ **React** – Component-based UI library
-- 🎨 **shadcn-ui** – Accessible and beautifully styled UI components
-- 💅 **Tailwind CSS** – Utility-first CSS framework
-- 🐍 **FastAPI** – High-performance backend framework for building APIs with Python
+-  **Vite** – Lightning-fast frontend tooling
+-  **TypeScript** – Type-safe JavaScript
+-  **React** – Component-based UI library
+-  **shadcn-ui** – Accessible and beautifully styled UI components
+-  **Tailwind CSS** – Utility-first CSS framework
+-  **FastAPI** – High-performance backend framework for building APIs with Python
 
 ## ✨ Features
 
